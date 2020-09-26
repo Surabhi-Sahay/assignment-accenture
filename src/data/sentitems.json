@@ -1,0 +1,14 @@
+[
+	{
+		"mId": "guid-11",
+		"unread": true,
+		"subject" : "Apprisal Form Submitted",
+		"content" : "Dear HR! I have sumitted my Apprisal Form"
+	},
+	{
+		"mId": "guid-12",
+		"unread": true,
+		"subject" : "Course Completion Certificate!",
+		"content" : "Hi I have completed the quiz please send me the certificate."
+	}
+]

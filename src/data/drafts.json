@@ -1,0 +1,14 @@
+[
+	{
+		"mId": "guid-9",
+		"unread": true,
+		"subject" : "Pre Leave Approval",
+		"content" : "Hi Team, I will be on leave for next week!"
+	},
+	{
+		"mId": "guid-10",
+		"unread": true,
+		"subject" : "Sweets on My Desk",
+		"content" : "Birtday Sweets on My Desk."
+	}
+]
